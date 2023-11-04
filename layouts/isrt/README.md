@@ -2,6 +2,11 @@
 
 > The creator deleted this layout docs (the reason are unknown to me) so beside the needed files for the layout this repository will present the original documentation and archived links pointing to the original pages or any other related docs.
 
+## Platforms
+
+- macOS
+- [Windows](./windows/README.md)
+
 ## Links
 
 - https://web.archive.org/web/20230203194545/https://notgate.github.io/layout
