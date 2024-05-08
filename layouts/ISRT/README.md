@@ -4,7 +4,7 @@
 
 ## Platforms
 
-- macOS
+- [MacOS](./macos/README.md)
 - [Windows](./windows/README.md)
 
 ## Links
